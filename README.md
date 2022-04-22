@@ -2,7 +2,7 @@
 
 Multiple dispatch for gforth.
 
-    \ Example:
+Example:
 
     multi factorial
     :: factorial << dup 0= >> drop 1 ;;
